@@ -25,3 +25,7 @@ $ mvn clean test
 $ mvn clean spring-boot:run
 
 Acessar http://localhost:8080/swagger-ui.html
+
+## Troubleshooting
+
+É possível que ocorram conflitos de dependências, caso aconteça, exclua a pasta repository no diretorio .m2
