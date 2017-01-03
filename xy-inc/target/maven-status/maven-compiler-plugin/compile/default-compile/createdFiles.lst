@@ -1,0 +1,7 @@
+br\com\repository\PontoInteresseRepository.class
+br\com\service\PontoInteresseServiceImpl.class
+br\com\documentation\SwaggerConfig.class
+br\com\service\PontoInteresseService.class
+br\com\XyIncApplication.class
+br\com\controller\PontoInteresseRestController.class
+br\com\entity\PontoInteresse.class
